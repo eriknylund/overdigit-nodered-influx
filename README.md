@@ -1,8 +1,13 @@
 # Parts
 
-- ft232rl RS485 to USB half duplux ftdi usb rs485 serial adapter (https://www.aliexpress.com/item/32956970166.html?spm=a2g0s.9042311.0.0.523e4c4dtqKiFk)
+- FT232RL RS485 to USB serial adapter
+https://www.aliexpress.com/item/32956970166.html?spm=a2g0s.9042311.0.0.523e4c4dtqKiFk
 
-Overdigit EX08AI
+- Overdigit EX08AI
+https://web-plc.com/product/modbus-analog-input-module-ex08ai/
+
+- Raspberry Pi 2 or newer
+https://www.raspberrypi.org/
 
 # Drivers, Manuals and Tools
 
