@@ -4,7 +4,7 @@
 https://www.aliexpress.com/item/32956970166.html
 
 - Overdigit EX08AI
-https://web-plc.com/product/modbus-analog-input-module-ex08ai/
+https://web-plc.com/product/modbus-analog-input-module-ex08ai
 
 - Raspberry Pi 2 or newer
 https://www.raspberrypi.org
@@ -33,9 +33,14 @@ Default: Baudrate: 9600 baud, Parity: even
 
 The devide requires that both the physical DIP switches are correctly placed, and then also that the register for the corresponding port is set. This is easiest done through the Modbus-Tool.
 
+See images/ for screenshots on how this is done.
+
 ## Raspberry Pi 
 
 2019-09-26-raspbian-buster-full.img
 
 ## Node RED
 
+## InfluxDB
+
+## Grafana
