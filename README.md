@@ -1,22 +1,29 @@
 # Parts
 
 - FT232RL RS485 to USB serial adapter
-https://www.aliexpress.com/item/32956970166.html?spm=a2g0s.9042311.0.0.523e4c4dtqKiFk
+https://www.aliexpress.com/item/32956970166.html
 
 - Overdigit EX08AI
 https://web-plc.com/product/modbus-analog-input-module-ex08ai/
 
 - Raspberry Pi 2 or newer
-https://www.raspberrypi.org/
+https://www.raspberrypi.org
+
+- Pt-100 3-wire sensor
+https://www.aliexpress.com/item/1717332439.html
 
 # Drivers, Manuals and Tools
 
+- For Windows
 CH-340 VCP  http://www.ftdichip.com/Drivers/VCP.htm 
+
+- For Linux
+Already included, just plug and play
 
 # Wiring
 
-EX08AI - (A) -> RS485 + 
-EX08AI + (B) -> RS485 -
+EX08AI - (A) -> RS485 -
+EX08AI + (B) -> RS485 +
 
 # Configuration
 
